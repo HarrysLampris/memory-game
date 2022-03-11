@@ -89,7 +89,7 @@ public class MemoryGame  implements ActionListener
 	{
 		dprintln("MemoryGame.showAbout()");
 		final String ABOUTTEXT = 
-			"Project 2019 φτιαγμένο από τον Σηφοστρατουδάκη και τον Λάμπρη!";
+			"Project 2019";
 		JOptionPane.showMessageDialog(this.mainFrame, ABOUTTEXT
 			, "About Memory Game", JOptionPane.PLAIN_MESSAGE);
 	}
